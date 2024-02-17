@@ -14,7 +14,7 @@ A variety of data science methods and techniques were employed:
 - **Notebook Documentation:** The use of Jupyter notebooks to document the analysis process showed an understanding of how to effectively organize and present data science workflows.
 
 # Analysis:
-My in depth analysis can be found on my [portfolio page]([https://sites.google.com/view/dennis-mclernan-jr/data-processing](https://sites.google.com/view/dennismclernanjr/projects)).
+My in depth analysis can be found on my [portfolio page](https://sites.google.com/view/dennismclernanjr/projects).
 
 # Areas of Improvement:
 The project highlighted several areas for continued learning and improvement in the field of data science:
